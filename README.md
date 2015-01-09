@@ -1,5 +1,6 @@
-Coursera - Data Science - Getting and Cleaning Data 
-=================================================== 
+##### Coursera - Data Science 
+Getting and Cleaning Data 
+============================== 
 
 This is repository for **Getting and Cleaning Data** course project. 
 The purpose of the project is to learn how to read, work with, and cleaning data set, thus finally to create an independent tidy data set. 
@@ -14,9 +15,9 @@ The purpose of the project is to learn how to read, work with, and cleaning data
 
 * `tidy_data.txt` is the output data file. 
 
-* `UCI HAR Dataset.zip` is data file to be downloaded from 
+* `UCI HAR Dataset.zip` (*not available in this repo*) is data file to be downloaded from 
 [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
-. The data has big size (61 MB). To skip downloading the data, do commenting `file.download()` line in the script. 
+. The data has big size (61 MB). To skip downloading the data, do commenting `file.download()` line in the script. --- Direct link to download zipped data (61 MB): [click here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). 
 
 ### Scripts:
 It will download the "*Human Activity Recognition Using Smartphones Dataset*" data, then unzip the ZIP file.  
